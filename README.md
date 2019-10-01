@@ -14,6 +14,8 @@
 
 来试试Code Day吧！**Code Day** 是这样一场活动：有着独特技能的学生们聚在一起，在Code Day刚开始时分享自己的Idea和Skill或者倾听他人的发言......无论如何，你将在有限的时间内与他人合作实现一款新的应用、游戏等等......
 
+> 活动原型:[codeday.org](https://www.codeday.org/zh_CN)。
+
 ## 活动安排
 
 <table>
